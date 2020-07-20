@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "name": "Saeco Avanti Coffee",
+      "link": "saeco",
+      "date": "Dec 2016 - Present",
+      "short": "Your perfect coffee is now at your fingertips. Choose from the 18 drink options and customise your coffee by personalising strength, length, temperature, and taste. The intuitive setting panel on the Saeco Avanti App instantly responds to your needs and expectations. Save your favourite coffee creations so you can brew your coffee whenever you want it, simply by pressing a button on your smart device.",
+      "weight": 9,
+      "playstore": "https://play.google.com/store/apps/details?id=com.philips.cl.di.saecoavanti",
+      "tags": [
+        "Android",
+        "BLE"
+      ],
+      "tech_used": [
+        "Android Studio",
+        "BLE"
+      ],
+      "videos": [
+        "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/g9L-HJ6R3Cg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      ],
+      "photos": [
+        "/static/projects/saeco/saeco.jpg",
+        "/static/projects/saeco/1.jpeg",
+        "/static/projects/saeco/2.jpeg",
+        "/static/projects/saeco/3.jpeg",
+        "/static/projects/saeco/4.jpeg",
+        "/static/projects/saeco/5.jpeg",
+        "/static/projects/saeco/6.jpeg",
+        "/static/projects/saeco/7.jpeg",
+        "/static/projects/saeco/8.jpeg",
+        "/static/projects/saeco/9.jpeg"
+      ]
+    },
+    {
+      "name": "Philips Reusable Component",
+      "link": "reusable-component",
+      "date": "June 2020",
+      "short": "Leading Common components in Android for reusability:\n- Philips Identity Management,\n- User Registration,\n- Consumer Care support,\n- InApp purchase,\n- AppInfrastructure such as Cloud logging, SecureDB, Service discovery, Logging, Tagging, etc.\n- Telehealth Services.",
+      "status": "complete",
+      "playstore": "https://play.google.com/store/apps/details?id=com.philips.cl.di.kitchenappliances.airfryer",
+      "weight": 9,
+      "tags": [
+        "Android",
+        "media",
+        "OpenID Connect",
+        "Kotlin"
+      ],
+      "photos": [
+        "/static/projects/reusable-component/img-1.jpg"
+      ]
+    },
+    {
+      "name": "Sales Forecast using Machine Learning\n",
+      "link": "sales-prediction",
+      "date": "Nov 2019",
+      "short": "A web application to predict the sales of a newly launched product.",
+      "status": "complete",
+      "weight": 9,
+      "tags": [
+        "Python",
+        "Django"
+      ],
+      "photos": [
+        "/static/projects/sales-prediction/img-1.jpg"
+      ]
+    },
+    {
+      "name": "Location Tracker",
+      "link": "location",
+      "date": "Nov 2013",
+      "short": "A Android application to to track location by using google play service.",
+      "status": "complete",
+      "weight": 9,
+      "tags": [
+        "Android",
+        "Google Map"
+      ],
+      "photos": [
+        "/static/projects/location/loc.jpeg"
+      ],
+      "github": "https://github.com/indrajitkumar/GoogleMapV2"
+    },
+    {
+      "name": " PrankU",
+      "link": "pranku",
+      "date": "June 2018",
+      "short": "An Android application to entertain people by showing prank videos.",
+      "status": "complete",
+      "weight": 9,
+      "tags": [
+        "Android",
+        "Youtube"
+      ],
+      "photos": [
+        "/static/projects/pranku/prankyou.jpg"
+      ],
+      "github": "https://github.com/indrajitkumar/PrankU"
+    }
+  ]
+}

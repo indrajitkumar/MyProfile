@@ -1,0 +1,169 @@
+{
+  "experiences": [
+    {
+      "name": "Fortune Infotech Pvt. Ltd.",
+      "link": "fortune",
+      "location": "Mumbai, Maharashtra, India",
+      "weight": 2,
+      "tags": [
+        "C++",
+        "android"
+      ],
+      "date": "Dec, 2009 - June 2010",
+      "short": "Responsibility in Software Development. I was in a team of DualWiFi Service Project in C++ and worked in Android SDK.",
+      "photos": [
+        "/static/experiences/fortune/img-1.jpg"
+      ]
+    },
+    {
+      "name": "RockASAP Retail Pvt. Ltd.",
+      "link": "rockasap",
+      "location": "New Delhi, India",
+      "weight": 3,
+      "tags": [
+        "EBook Reader",
+        "Android"
+      ],
+      "date": "Dec, 2012 - June, 2013",
+      "short": "A took a month off of work to ski and travel North India and Bhutan.",
+      "photos": [
+        "/static/experiences/rockasap/img-1.jpg",
+        "/static/experiences/rockasap/img-2.jpg"
+      ],
+      "videos": [
+        "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/yK9ON-9v5sY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      ]
+    },
+    {
+      "name": "Veddis Advisory",
+      "link": "veddis",
+      "location": "Gurgoan, Haryana, India",
+      "weight": 3,
+      "tags": [
+        "Android",
+        "Favista property search",
+        "Vastu Consultant"
+      ],
+      "date": "July, 2012 - Nov, 2012",
+      "short": "Lodged at a maker space in Dharamshala for 2 weeks.",
+      "photos": [
+        "/static/experiences/veddis/img-1.jpg",
+        "/static/experiences/veddis/img-2.jpg",
+        "/static/experiences/veddis/img-3.jpg "
+      ]
+    },
+    {
+      "name": "Symbiosis",
+      "link": "symbiosis",
+      "location": "Pune, Maharashtra, India",
+      "weight": 1,
+      "tags": [
+        "computer application"
+      ],
+      "date": "2008 - 2010",
+      "short": "Master in Science (Computer Application)",
+      "photos": [
+        "/static/experiences/symbiosis/img-1.png"
+      ]
+    },
+    {
+      "name": " Devi Ahilya University",
+      "link": "dav",
+      "location": "Indore, Madhya Pradesh, India",
+      "weight": 1,
+      "tags": [
+        "BCA",
+        "Computer Application"
+      ],
+      "date": "2001 - 2003",
+      "short": "Spent a month at Sandhol, a small village in Himachal as a part of my college's rural internship program where we taught students of grades 2-6 Math and English.",
+      "photos": [
+        "/static/experiences/dav/img-1.jpg"
+      ]
+    },
+    {
+      "name": "Gameshastra",
+      "link": "gameshastra",
+      "weight": 3,
+      "location": "Bangalore, India",
+      "date": "June, 2010 - June, 2012",
+      "tags": [
+        "CBSE PDF Reader",
+        "Android",
+        "Game development"
+      ],
+      "short": "Worked as a Android Developer and builds many games such as \"Boy and His Blob\", \"Rangill Hills\", \"IIT Assessment\", \"CBSE PDF Reader\".",
+      "photos": [
+        "/static/experiences/gameshastra/img-1.jpg",
+        "/static/experiences/gameshastra/img-2.png "
+      ]
+    },
+    {
+      "name": "Shopclues",
+      "link": "shopclues",
+      "location": "Gurgoan, India",
+      "weight": 4,
+      "tags": [
+        "android",
+        "Map"
+      ],
+      "date": "June, 2013 - May, 2014",
+      "short": "To make android apps to provide service to customer and merchants both",
+      "photos": [
+        "/static/experiences/shopclues/ShopClues.png"
+      ]
+    },
+    {
+      "name": "Infinite Computer Solution Pvt. Ltd.",
+      "link": "infinite",
+      "weight": 5,
+      "location": "Bangalore, India",
+      "tags": [
+        "kotlin",
+        "java",
+        "android"
+      ],
+      "date": "April 2014 - Dec 2015",
+      "short": "Worked at Philips India, a consumer lifestyle department in company. My work here is to bring up the Qualcomm Snapdragon platform at the application layer, creating a base for camera-client communication, the client SDK and camera FDK, a base for vision problems, streaming, and fast image operations such as false coloring and video stabilization.",
+      "videos": [
+        "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/kjc0uVtK7ss\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>",
+        "<iframe width=\"480\" height=\"270\" src=\"https://www.youtube.com/embed/1RqiamkcpUc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+      ],
+      "photos": [
+        "/static/experiences/infinite/infinite.jpeg",
+        "/static/experiences/infinite/img-2.jpg",
+        "/static/experiences/infinite/img-3.jpg",
+        "/static/experiences/infinite/img-4.jpg",
+        "/static/experiences/infinite/img-5.jpg",
+        "/static/experiences/infinite/img-6.jpg"
+      ]
+    },
+    {
+      "name": "Philips Inc",
+      "link": "philips",
+      "weight": 6,
+      "location": "Bangalore, India",
+      "tags": [
+        "android",
+        "google",
+        "machine learning",
+        "artificial intelligence"
+      ],
+      "date": "Dec 2015 - Present",
+      "short": "Working at Philips in the Android Platforms and Enterprise mobile solution team. Exciting times!",
+      "photos": [
+        "/static/experiences/philips/img-1.png",
+        "/static/experiences/philips/hackathon_winner.jpg",
+        "/static/experiences/philips/img-2.jpg",
+        "/static/experiences/philips/img-3.jpg",
+        "/static/experiences/philips/img-4.jpg",
+        "/static/experiences/philips/img-5.jpg",
+        "/static/experiences/philips/img-6.jpg",
+        "/static/experiences/philips/img-7.jpg",
+        "/static/experiences/philips/img-8.jpg",
+        "/static/experiences/philips/img-9.jpg",
+        "/static/experiences/philips/img-1.jpg"
+      ]
+    }
+  ]
+}
