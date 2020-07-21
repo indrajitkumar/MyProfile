@@ -12,7 +12,7 @@ try:
 except:
     print('Tracking ID not set')
 
-resume_pdf_link = 'https://drive.google.com/open?id=0B2BrrDjIiyvmcWp5T194cy00UmM'
+resume_pdf_link = 'https://drive.google.com/drive/u/0/my-drive'
 
 
 @app.route('/')
