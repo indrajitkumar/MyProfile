@@ -90,7 +90,7 @@ h5py==2.10.0
 holidays==0.10.1
 hpack==3.0.0
 httpcore==0.3.0
-httplib2==0.15.0
+httplib2==0.18.0
 httptools==0.0.13
 humanfriendly==4.18
 hyperframe==5.2.0
