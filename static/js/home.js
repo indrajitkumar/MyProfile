@@ -1,14 +1,18 @@
 $(function() {
-  /* NOTE: hard-refresh the browser once you've updated this */
   $(".typed").typed({
     strings: [
-      "stat rish.human<br/>" +
-      "><span class='caret'>$</span> skills: android, hardware-software interaction, camera, computer vision<br/> ^100" +
-      "><span class='caret'>$</span> job: android auto at <a href='http://www.google.com/'>Google Munich</a><br/> ^100" +
-      "><span class='caret'>$</span> hobbies: football, travel, <a href='http://www.rish.space/blog'>writing</a><br/> ^300" +
-      "><span class='caret'>$</span> alias: crearo <br/>" +
-      "><span class='caret'>$</span> highlight:  <a href='/projects/video-stab'>real time image stabilization on Android</a>, <a href='/projects/lifehacks'>app with >750K installs</a><br/>"/*
-      "><span class='caret'>$</span> <a href='/timeline'>timeline</a> <a href='http://www.github.com/crearo/'>github</a> <a href='http://in.linkedin.com/in/bhardwajrish/'>linkedin</a> <a href='http://bhardwajrish.blogspot.com/'>blog</a><br/>"*/
+      "stat indrajit.kumar<br/>" +
+      "><span class='caret'>$</span> skills: android, ios, artificial learning and machine learning, hardware-software interaction, camera, computer vision<br/> ^100" +
+      "><span class='caret'>$</span> job: software technologist-2 at <a href='https://www.philips.co.in/'>Philips</a><br/> ^100" +
+      "><span class='caret'>$</span> hobbies: cooking, travel, <a href='http://indrajitkumar.blogspot.com/'>writing</a><br/> ^300" +
+      "><span class='caret'>$</span> alias: master/teja/jeet <br/>" ^100 +
+      "><span class=caret'>$</span> achievements: 3 times hackathon winner in philips"
+      /*+
+      "><span class='caret'>$</span> highlight:  <a href='/projects/video-stab'>real time image stabilization on Android</a>, <a href='/projects/lifehacks'>app with >750K installs</a><br/>"
+*/
+      /*
+      "><span class='caret'>$</span> <a href='/timeline'>timeline</a> <a href='http://www.github.com/crearo/'>github</a> <a href='http://in.linkedin.com/in/bhardwajrish/'>linkedin</a> <a href='http://bhardwajrish.blogspot.com/'>blog</a><br/>"
+      */
     ],
     showCursor: true,
     cursorChar: '_',
